@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">StarGit2</string>
+    <string name="app_name">Приложение, которое считает сколько раз была нажата кнопка</string>
+    <string name="button">Нажми меня</string>
+    <string name="textview">Подсчет нажатий</string>
 </resources>
